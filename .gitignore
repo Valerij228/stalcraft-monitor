@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Конфиденциальные данные
+.env
+mycode.env  # Ваш текущий файл конфигурации
+database/
+
+# Логи
+*.log
+
+# IDE
+.idea/
+.vscode/
+database/
